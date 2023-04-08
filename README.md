@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-I'm a educator living in Japan, I love information technology, and I'm working on develop educational software and programing education.
-I'm interested in middleware and web frontend in general. 
+I am an educator living in Japan. I have a passion for information technology and I am working on developing educational software and providing programming education. I am particularly interested in middleware and web frontend development.
 
