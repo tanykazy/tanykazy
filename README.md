@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **tanykazy/tanykazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+
+I'm a educator living in Japan, I love information technology, and I'm working on develop educational software and programing education.
+I'm interested in middleware and web frontend in general. 
+
