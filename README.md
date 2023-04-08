@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+I'm an educator living in Japan.
 
+I love technology and create educational software and teach programming.
 
-I'm an educator living in Japan. I love technology and create educational software and teach programming. My favourite areas are middleware and web front-end development.
+My favourite areas are middleware and web front-end development.
 
 
